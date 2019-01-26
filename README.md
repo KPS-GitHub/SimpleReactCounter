@@ -1,2 +1,0 @@
-# SimpleReactCounter
-Created with CodeSandbox
